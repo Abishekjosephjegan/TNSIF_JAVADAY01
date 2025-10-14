@@ -1,4 +1,4 @@
-# TNSIF_JAVADAY01
+# TNSIF_JAVA
 core java
 SQL - Database 
 Spring Framework 
